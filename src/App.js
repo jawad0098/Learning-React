@@ -24,6 +24,7 @@ function App() {
           <a className="justify-between">
             Profile
             <span className="badge">New</span>
+            <span className="badge">Good</span>
           </a>
         </li>
         <li><a>Settings</a></li>
